@@ -4,23 +4,20 @@
 <hr>
 
 <div align="center"><br>    
-    <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+    <img alt="Coder GIF" height=250 width=350 src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+!+👋;+Eu+me+chamo+Israel+Kilday!;+Bem+vindo+ao+meu+perfil" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+!+👋;+Eu+me+chamo+Markim+Freitas!;+Bem+vindo+ao+meu+perfil" />
 </h1>
 </div>
 
-<h3 align="center">Sou um profissional em transição de carreira, apaixonado por desenvolvimento frontend, e estou focado em aprender e crescer constantemente.</h3>
+<h3 align="center">Sou um profissional em transição de carreira, apaixonado por desenvolvimento de Games e front-end, e estou focado em aprender e crescer constantemente.</h3>
 
 <br>
 
 <div align="center">
- 🚀 Atualmente estudo React, uma das bibliotecas JavaScript mais populares para desenvolvimento front-end.
- 
- 
- 🌱 Sou entusiasta do TypeScript, a linguagem que traz tipagem estática e segurança ao JavaScript.
+ 🚀 Atualmente estou estudando React, uma das bibliotecas JavaScript mais populares para desenvolvimento front-end e estou cursando Análises e desenvolvimento de sistemas na faculdade.
 
- ⚡Tenho conhecimentos em JavaScript, a base fundamental de tudo que fazemos no desenvolvimento web.
+ ⚡Tenho conhecimentos em JavaScript, HTML e CSS que são a base fundamental de tudo que fazemos no desenvolvimento web.
 
  📚 Gosto de novas tecnologias e bibliotecas que possam enriquecer meu conjunto de habilidades.
 
@@ -30,3 +27,8 @@
 <div align="center">
 
 <h2>🌐 Socials:</h2> 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/josemarques-freitas/)
+[![Instagram](https://img.shields.io/badge/-Instagram-FA06BD?logo=instagram&logoColor=white&style=plastic)](https://www.instagram.com/markimfreitas.0/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FC0505?logo=youtube&logoColor=white&style=plastic)](https://www.youtube.com/@MarkimFreitas)
+[![Twitch](https://img.shields.io/badge/-Twitch-F204FA?logo=twitch&logoColor=white&style=plastic)](https://www.twitch.tv/markimfreitas)
