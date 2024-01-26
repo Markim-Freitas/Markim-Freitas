@@ -32,3 +32,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-FA06BD?logo=instagram&logoColor=white&style=plastic)](https://www.instagram.com/markimfreitas.0/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FC0505?logo=youtube&logoColor=white&style=plastic)](https://www.youtube.com/@MarkimFreitas)
 [![Twitch](https://img.shields.io/badge/-Twitch-F204FA?logo=twitch&logoColor=white&style=plastic)](https://www.twitch.tv/markimfreitas)
+
+![Markim GitHub stats](https://github-readme-stats.vercel.app/api?username=Markim-Freitas&show_icons=true&theme=synthwave)
